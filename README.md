@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/simonpotel/](https://github.com/simonpotel/)
+- 👨‍💻 My Public projects are available at [https://github.com/simonpotel/](https://github.com/simonpotel/)
 
 - 📫 Know about my experiences [https://www.linkedin.com/in/simonpotel/](https://www.linkedin.com/in/simonpotel/)
 
