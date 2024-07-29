@@ -4,10 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=simonpotel&label=Profile%20views&color=0e75b6&style=flat" alt="simonpotel" />
 </p>
 
-🔭 For over a year, I've been developing an automated daily cryptocurrency trading system called [Smartswap](https://github.com/smartswap-org). This project also includes the following repositories from my profile:
-- [QTSBE](https://github.com/simonpotel/QTSBE): For backtesting strategies.
-- [CEXcryptoLib](https://github.com/simonpotel/CEXcryptoLib): To interact with CEX brokers like Binance.
-- [DEXcryptoLib](https://github.com/simonpotel/DEXcryptoLib): To interact with DEXs like Uniswap and Quickswap.
+🔭 For over a year, I've been developing an automated daily cryptocurrency trading system called [Smartswap](https://github.com/smartswap-org)
 
 🌱 I’m currently learning **JavaScript, React** for web development and **C++** for modeling.
 
