@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate web fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Smartswap](https://github.com/smartswap-org) and getting [CS50 at Harvard](https://pll.harvard.edu/)
+- 🔭 I’m currently working on [Smartswap](https://github.com/smartswap-org)
 
 - 🚀 I'm currently student at SUPINFO
 
