@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate web fullstack developer from France</h3>
+<h2 align="center">A passionate web fullstack developer from France</h2>
+<h3 align="center">
+  Working on 
+  <a href="https://github.com/smartswap-org" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/171923264?s=200&v=4" alt="Smartswap" width="24" />
+    Smartswap
+  </a>
+</h3>
 
-- 🔭 I’m currently working on [Smartswap](https://github.com/smartswap-org)
-
-- 🚀 I'm currently student at SUPINFO
-
-- 🌱 I’m currently mastering **Javascript, C++**
-
-- 👨‍💻 Some of my projects are available at [https://github.com/simonpotel](https://github.com/simonpotel)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/simonpotel/](https://www.linkedin.com/in/simonpotel/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
